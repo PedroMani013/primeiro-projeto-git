@@ -3,4 +3,4 @@
 
  - **Faculdade:** Fatec Ogari de Castro Pacheco (Itapira)
  - **Curso:** Desenvolvimento de Software Multiplataforma
- - **Aluno:** [@PedroMani013](https://github.com/PedroMani013)
+ - **Aluno:** Pedro Maniezo - Perfil no Github: [@PedroMani013](https://github.com/PedroMani013)
